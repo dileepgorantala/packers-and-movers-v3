@@ -41,7 +41,7 @@ body {
 }
 @media screen and (max-width:768px) {
     .cards{
-        width: 400px;
+        width: 350px;
         padding: 10px;
     }
 }
